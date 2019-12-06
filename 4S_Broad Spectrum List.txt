@@ -1,0 +1,240 @@
+Acinetobacter baumannii ACICU
+Acinetobacter baumannii ATCC 17978
+Acinetobacter baumannii AYE 
+Acinetobacter baumannii SDF 
+Acinetobacter sp ADP1 
+Aeromonas hydrophila subsp hydrophila ATCC 7966 
+Anaplasma phagocytophilum str. HZ 
+Bacillus anthracis str Ames 
+Bacillus anthracis str Sterne 
+Bacillus cereus ATCC 10987 
+Bacillus cereus ATCC 14579 
+Bacillus thuringiensis serovar konkukian 
+Bacteroides fragilis NCTC 9343 
+Bacteroides fragilis YCH46 
+Bartonella bacilliformis KC583 
+Bartonella henselae str Houston-1 
+Bartonella quintana str Toulouse
+Bordetella bronchiseptica 
+Bordetella pertussis 
+Borrelia burgdorferi group                  
+Borrelia garinii PBi 
+Burkholderia ambifaria MC40-6 
+Burkholderia cenocepacia 
+Burkholderia cenocepacia AU 1054 
+Burkholderia cenocepacia HI2424
+Burkholderia cenocepacia MC0-3 
+Burkholderia mallei ATCC 23344 
+Burkholderia mallei NCTC 10229 
+Burkholderia mallei NCTC 10247 
+Burkholderia mallei SAVP1 
+Burkholderia multivorans ATCC 17616 
+Burkholderia pseudomallei 1106a 
+Burkholderia pseudomallei 1710b 
+Burkholderia pseudomallei 668 
+Burkholderia pseudomallei K96243 
+Burkholderia sp 383 
+Burkholderia xenovorans LB400 
+Campylobacter concisus 13826 
+Campylobacter curvus 525.92 
+Campylobacter fetus subsp fetus 82-40 
+Campylobacter jejuni 
+Campylobacter jejuni RM1221 
+Campylobacter jejuni subsp jejuni 81116 
+Campylobacter jejuni subsp jejuni 81-176 
+Chlamydia muridarum 
+Chlamydia trachomatis 
+Chlamydia trachomatis 434/Bu 
+Chlamydia trachomatis A/HAR-13 
+Chlamydia trachomatis L2b/UCH-1/proctitis 
+Chlamydophila abortus S26/3 
+Chlamydophila caviae 
+Chlamydophila felis Fe/C-56 
+Chlamydophila pneumoniae AR39 
+Chlamydophila pneumoniae CWL029 
+Chlamydophila pneumoniae J138 
+Chlamydophila pneumoniae TW-183 
+Citrobacter koseri ATCC BAA-895 
+Clostridium acetobutylicum 
+Clostridium beijerinckii NCIMB 8052 
+Clostridium botulinum A 
+Clostridium botulinum A str ATCC 19397 
+Clostridium botulinum A str Hall 
+Clostridium botulinum A3 str Loch Maree 
+Clostridium botulinum B str Eklund 17B 
+Clostridium botulinum B1 str Okra 
+Clostridium botulinum F str Langeland 
+Clostridium difficile 630 
+Clostridium perfringens 
+Clostridium perfringens ATCC 13124 
+Clostridium perfringens SM101
+Clostridium tetani E88 
+Clostridium thermocellum ATCC 27405 
+Corynebacterium diphtheriae 
+Corynebacterium efficiens YS-314 
+Corynebacterium jeikeium K411 
+Corynebacterium urealyticum DSM 7109 
+Coxiella burnetii 
+Coxiella burnetii RSA 331 
+Ehrlichia chaffeensis str Arkansas 
+Enterococcus faecalis V583 
+Escherichia coli O157: H7
+Escherichia coli O157: H7 str EDL933 
+Francisella tularensis subsp holarctica 
+Francisella tularensis subsp holarctica OSU18 
+Francisella tularensis subsp mediasiatica FSC147 
+Francisella tularensis subsp tularensis 
+Francisella tularensis subsp tularensis FSC198 
+Francisella tularensis subsp tularensis WY96-3418 
+Fusobacterium nucleatum 
+Haemophilus ducreyi 35000HP 
+Haemophilus influenzae 
+Haemophilus influenzae 86-028NP 
+Haemophilus influenzae PittEE 
+Haemophilus influenzae PittGG 
+Haemophilus somnus 129PT 
+Haemophilus somnus 2336 
+Helicobacter hepaticus 
+Helicobacter pylori 26695 
+Helicobacter pylori HPAG1 
+Helicobacter pylori J99 
+Klebsiella pneumoniae subsp pneumoniae MGH 78578 
+Legionella pneumophila str Corby 
+Legionella pneumophila str Lens 
+Legionella pneumophila str Paris 
+Legionella pneumophila subsp pneumophila Philadelphia 1 
+Leptospira borgpetersenii serovar Hardjo-bovis JB197 
+Leptospira borgpetersenii serovar Hardjo-bovis L550 
+Leptospira interrogans serovar Copenhageni 
+Leptospira interrogans serovar Lai 
+Listeria monocytogenes 
+Listeria monocytogenes serotype 4b str F2365 
+Mycobacterium asiaticum 
+Mycobacterium avium 
+Mycobacterium avium 104 
+Mycobacterium avium complex (MAC) 
+Mycobacterium avium paratuberculosis 
+Mycobacterium celatum 
+Mycobacterium chelonae
+Mycobacterium conspicuum 
+Mycobacterium fortuitum 
+Mycobacterium gastri 
+Mycobacterium genavense 
+Mycobacterium gordonae 
+Mycobacterium haemophilum 
+Mycobacterium immunogenum 
+Mycobacterium intracellulare 
+Mycobacterium kansasii 
+Mycobacterium leprae 
+Mycobacterium malmoense 
+Mycobacterium marinum 
+Mycobacterium mucogenicum 
+Mycobacterium nonchromogenicum 
+Mycobacterium scrofulaceum 
+Mycobacterium shimoidei 
+Mycobacterium simiae 
+Mycobacterium smegmatis 
+Mycobacterium szulgai 
+Mycobacterium terrae 
+Mycobacterium terrae complex 
+Mycobacterium tuberculosis CDC1551 
+Mycobacterium tuberculosis F11 
+Mycobacterium tuberculosis H37Ra 
+Mycobacterium tuberculosis H37Rv 
+Mycobacterium ulcerans Agy99 
+Mycobacterium xenopi 
+Mycoplasma capricolum subsp capricolum ATCC 27343 
+Mycoplasma gallisepticum 
+Mycoplasma genitalium 
+Mycoplasma penetrans 
+Mycoplasma pneumoniae 
+Neisseria gonorrhoeae FA 1090 
+Neisseria meningitidis 053442 
+Neisseria meningitidis FAM18 
+Neisseria meningitidis MC58 
+Neisseria meningitidis Z2491 
+Neorickettsia sennetsu str Miyayama 
+Nitrosospira multiformis ATCC 25196 
+Nocardia farcinica IFM 10152 
+Orientia tsutsugamushi str. Boryong 
+Orientia tsutsugamushi str. Ikeda 
+Pasteurella multocida 
+Propionibacterium acnes KPA171202 
+Pseudomonas aeruginosa 
+Pseudomonas aeruginosa PA7 
+Pseudomonas aeruginosa UCBPP-PA14 
+Pseudomonas entomophila L48 
+Pseudomonas mendocina ymp 
+Rickettsia conorii 
+Rickettsia felis URRWXCal2 
+Rickettsia rickettsii str. Iowa 
+Rickettsia rickettsii str. 'Sheila Smith' 
+Rickettsia typhi str. Wilmington 
+Salmonella enterica subsp arizonae serovar 62:z4,z23:-- 
+Salmonella enterica subsp enterica serovar Choleraesuis 
+Salmonella enterica subsp enterica serovar Paratyphi A str ATCC 9150 
+Salmonella enterica subsp enterica serovar Paratyphi B str SPB7 
+Salmonella typhi  
+Shigella boydii CDC 3083-94 
+Shigella boydii Sb227
+Shigella dysenteriae 
+Shigella flexneri 2a 
+Shigella flexneri 2a str 2457T
+Shigella flexneri 5 str 8401 
+Staphylococcus aureus RF122 
+Staphylococcus aureus subsp aureus COL 
+Staphylococcus aureus subsp aureus JH1 
+Staphylococcus aureus subsp aureus JH9 
+Staphylococcus aureus subsp aureus MRSA252 
+Staphylococcus aureus subsp aureus MSSA476 
+Staphylococcus aureus subsp aureus Mu3 
+Staphylococcus aureus subsp aureus Mu50 
+Staphylococcus aureus subsp aureus MW2 
+Staphylococcus aureus subsp aureus N315 
+Staphylococcus aureus subsp aureus NCTC 8325 
+Staphylococcus aureus subsp aureus USA300 
+Staphylococcus aureus subsp aureus USA300_TCH1516 
+Staphylococcus epidermidis ATCC 12228 
+Staphylococcus epidermidis RP62A 
+Staphylococcus haemolyticus 
+Staphylococcus saprophyticus 
+Streptococcus gordonii str Challis substr CH1 
+Streptococcus pneumoniae CGSP14 
+Streptococcus pneumoniae D39 
+Streptococcus pneumoniae Hungary19A-6 
+Streptococcus pneumoniae R6 
+Streptococcus pneumoniae TIGR4 
+Streptococcus pyogenes M1 GAS 
+Streptococcus pyogenes str. Manfredo 
+Streptococcus pyogenes MGAS10270 
+Streptococcus pyogenes MGAS10394 
+Streptococcus pyogenes MGAS10750 
+Streptococcus pyogenes MGAS2096 
+Streptococcus pyogenes MGAS315 
+Streptococcus pyogenes MGAS5005 
+Streptococcus pyogenes MGAS6180 
+Streptococcus pyogenes MGAS8232 
+Streptococcus pyogenes MGAS9429 
+Streptococcus pyogenes SSI-1 
+Streptococcus sanguinis SK36 
+Streptococcus suis 05ZYH33 
+Streptococcus suis 98HAH33 
+Treponema pallidum 
+Treponema pallidum subsp pallidum SS14 
+Tropheryma whipplei TW08/27 
+Tropheryma whipplei str. Twist 
+Ureaplasma parvum serovar 3 str ATCC 27815 
+Vibrio cholerae 
+Vibrio cholerae O395 
+Vibrio parahaemolyticus 
+Vibrio vulnificus CMCP6 
+Vibrio vulnificus YJ016 
+Yersinia enterocolitica subsp enterocolitica 8081 
+Yersinia pestis Angola 
+Yersinia pestis Antiqua 
+Yersinia pestis CO92 
+Yersinia pestis Nepal516 
+Yersinia pestis Pestoides F 
+Yersinia pseudotuberculosis IP 31758 
+Yersinia pseudotuberculosis IP 32953 
+Yersinia pseudotuberculosis YPIII
