@@ -1,0 +1,95 @@
+Actinomyces odontolyticus ATCC 17982
+Akkermansia muciniphila ATCC BAA-835
+Alistipes putredinis DSM 17216
+Anaerofustis stercorihominis DSM 17244
+Anaerostipes caccae DSM 14662
+Anaerotruncus colihominis DSM 17241
+Bacteroides capillosus ATCC 29799
+Bacteroides cellulosilyticus DSM 14838
+Bacteroides coprocola DSM 17136
+Bacteroides dorei DSM 17855
+Bacteroides eggerthii DSM 20697
+Bacteroides finegoldii DSM 17565
+Bacteroides intestinalis DSM 17393
+Bacteroides ovatus ATCC 8483
+Bacteroides pectinophilus ATCC 43243
+Bacteroides plebeius DSM 17135
+Bacteroides stercoris ATCC 43183
+Bacteroides uniformis ATCC 8492
+Bifidobacterium adolescentis ATCC 15703
+Bifidobacterium adolescentis L2-32
+Bifidobacterium angulatum DSM 20098
+Bifidobacterium bifidum DSM 20456
+Bifidobacterium breve DSM 20213
+Bifidobacterium dentium ATCC 27678
+Bifidobacterium longum BORI
+Bifidobacterium longum DJO10A
+Bifidobacterium longum DJO10A
+Bifidobacterium longum NCC2705
+Bifidobacterium longum subsp. infantis str. ATCC 15697
+Borrelia burgdorferi CA-11.2a
+Bryantella formatexigens DSM 14469
+Butyrivibrio crossotus DSM 2876
+Catenibacterium mitsuokai DSM 15897
+Citrobacter sp. ATCC 29220
+Clostridium asparagiforme DSM 15981
+Clostridium bartlettii DSM 16795
+Clostridium bolteae ATCC BAA-613
+Clostridium hiranonis DSM 13275
+Clostridium leptum DSM 753
+Clostridium methylpentosum DSM 5476
+Clostridium nexile DSM 1787
+Clostridium ramosum DSM 1402
+Clostridium scindens ATCC 35704
+Clostridium sp. A2-232
+Clostridium sp. L2-50
+Clostridium sp. M62/1
+Clostridium sp. SS2/1
+Clostridium spiroforme DSM 1552
+Clostridium sporogenes ATCC 15579
+Clostridium symbiosum ATCC 14940
+Collinsella aerofaciens ATCC 25986
+Collinsella intestinalis DSM 13280
+Collinsella stercoris DSM 13279
+Coprococcus comes ATCC 27758
+Coprococcus eutactus ATCC 27759
+Desulfitobacterium hafniense DSM 13498
+Dorea formicigenerans ATCC 27755
+Dorea longicatena DSM 13814
+Eggerthella lenta DSM 2243
+Enterobacter cancerogenus ATCC 35316
+Eubacterium dolichum DSM 3991
+Eubacterium hallii DSM 3353
+Eubacterium siraeum DSM 15702
+Eubacterium ventriosum ATCC 27560
+Faecalibacterium prausnitzii A2-165
+Faecalibacterium prausnitzii M21/2
+Lactobacillus reuteri F275
+Lactobacillus reuteri F275
+Lactobacillus salivarius UCC118
+Methanobrevibacter smithii ATCC 35061
+Methanobrevibacter smithii DSM 11975
+Methanobrevibacter smithii DSM 2374
+Methanobrevibacter smithii DSM 2375
+Mitsuokella multacida DSM 20544
+Parabacteroides johnsonii
+Parabacteroides merdae ATCC 43184
+Parvimonas micra ATCC 33270
+Photorhabdus luminescens subsp. laumondii TTO1
+Prevotella copri DSM 18205
+Providencia alcalifaciens DSM 30120
+Providencia rettgeri DSM 1131
+Providencia rustigianii DSM 4541
+Roseburia faecis M72/1
+Roseburia intestinalis L1-82
+Ruminococcus callidus ATCC 27760
+Ruminococcus gnavus ATCC 29149
+Ruminococcus hansenii DSM 20583
+Ruminococcus hydrogenotrophicus DSM 10507
+Ruminococcus lactaris ATCC 29176
+Ruminococcus obeum ATCC 29174
+Ruminococcus sp. GM2/1
+Ruminococcus torques ATCC 27756
+Streptococcus infantarius subsp. infantarius ATCC BAA-102
+Subdoligranulum variabile DSM 15176
+Victivallis vadensis ATCC BAA-548
